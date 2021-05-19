@@ -1,0 +1,27 @@
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: #F2F0F1;
+}
+
+hr {
+    border-color: black;
+    border-width: 3px;
+    max-width: 65px;
+}
+
+.layout {
+    background: url('../../assets/img/books.jpg') no-repeat center center fixed;
+    height: 100vh;
+    background-size: cover;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+    border-radius: 300px;
+}
+
+.btn-xl:hover {
+    border-width: 5px;
+}
